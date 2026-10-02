@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import MergePDF from './Mergepdf'
+import WhatsAppDirect from './Whatsapp tool'
 import './style.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <MergePDF />
+    <WhatsAppDirect />
   </React.StrictMode>,
 )
